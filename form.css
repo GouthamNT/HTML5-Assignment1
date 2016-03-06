@@ -1,0 +1,24 @@
+#heading {
+    background: lightgreen;
+    color: blue;
+    padding: 20px;
+    font-size: 50px;
+}
+
+#new-user {
+    background: lightgreen;
+    color: black;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 20px;
+    float: left;
+}
+
+#existing-user {
+    background: darkgreen;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 20px;
+    margin-left: 395px;
+}
